@@ -1,0 +1,121 @@
+cliente_id,nome,cpf,email,idade,data_nascimento,cidade,status_cliente,telefone
+1,Mariah Rios,960.517.832-02,castroluiz-fernando@example.net,63,1963-02-17,,ativo,+55 45 3960-8604
+2,Dra. Nicole Borges,908.724.315-41,gmacedo@example.com,34,1992-09-04,Teresina,bloqueado,51 5708-7455
+3,Maria Luiza Nascimento,145.632.907-34,vitor-gabriel39@example.org,39,1987-07-10,Fortaleza,ativo,46 2176-0324
+4,Eduarda Teixeira,507.391.684-01,luiz-otaviocostela@example.org,59,1967-07-31,São Luís,ativo,+55 62 8152-9401
+5,Melina Brito,924.687.503-65,dsantos@example.com,43,1983-10-13,,ativo,38 4228-4669
+6,Vicente Nascimento,425.368.710-53,ebarros@example.net,19,2007-01-05,,bloqueado,+55 48 3044-9336
+7,Bryan Lopes,328.094.671-96,email_sem_arroba.com,64,1962-01-24,Belém,ativo,77 8019-0515
+8,Ana Luiza da Cruz,082.759.613-86,viniciuscarvalho@example.org,67,1959-01-23,Belém,inativo,+55 92 3470-8303
+9,Sra. Milena Guerra,574.182.960-02,dom22@example.net,26,2000-06-23,Teresina,ativo,0900 840 3473
+10,Carlos Eduardo Campos,514.297.360-70,xmarques@example.org,28,1998-06-02,Teresina,ativo,+55 54 6948-3759
+11,Cecilia Souza,136.902.475-43,mrezende@example.com,35,1990-10-30,São Luís,bloqueado,+55 31 5463-1611
+12,Kaique Fogaça,111.222.333-44,luigi24@example.com,19,2007-03-09,Belém,ativo,+55 18 5920-9362
+13,Maria Helena Monteiro,210.564.783-90,isisramos@example.net,60,1966-03-13,Belém,ativo,32 9420-1443
+14,Srta. Clarice Dias,268.170.459-67,mendoncacaroline@example.net,54,1972-09-01,,bloqueado,61 3936-8521
+15,Sra. Maria Júlia Leão,946.852.710-76,lda-luz@example.net,25,2001-04-10,,bloqueado,92 8122-2382
+16,Ana Carolina Cirino,438.607.512-71,igor00@example.com,58,1968-05-19,Recife,ativo,27 3202-2391
+17,Helena Carvalho,986.203.541-24,evelynrodrigues@example.org,27,1998-12-07,,bloqueado,28 9597-1399
+18,Ravi Rocha,463.920.815-42,luiz-fernando70@example.com,50,1976-01-17,Fortaleza,ativo,82 0305-3734
+19,Lucas Jesus,493.567.201-34,ybrito@example.com,44,1982-07-12,São Luís,bloqueado,+55 53 7537-8011
+20,Srta. Esther Martins,159.234.807-60,joao-gabriel58@example.net,42,1984-08-18,Recife,inativo,44 9138-4294
+21,Rebeca Câmara,452.819.376-00,joao-pedroferreira@example.org,67,1959-09-24,Fortaleza,ativo,71 9840-1596
+22,Paulo Albuquerque,490.723.685-92,rochaayla@example.org,-1,2026-12-28,São Luís,inativo,0300 058 4326
+23,Sr. Miguel Pires,037.582.164-35,costelajulia@example.com,75,1951-02-19,Teresina,inativo,0800 727 9208
+24,Davi Fernandes,614.289.705-76,nsales@example.com,44,1982-10-04,Teresina,inativo,55 0113-3304
+25,Rafael Lima,301.849.267-69,ravibrito@example.net,36,1990-05-21,Fortaleza,bloqueado,+55 73 0118-7333
+26,Heloísa Almeida,145.269.378-19,daniel50@example.com,60,1966-02-14,Fortaleza,ativo,+55 85 5006-8083
+27,Ravy Pereira,298.017.365-77,mcassiano@example.org,24,2002-03-06,,inativo,+55 96 2078-0654
+28,Sra. Mariah Rodrigues,651.302.498-60,fariaskamilly@example.net,42,1983-12-30,Belém,ativo,95 3561-8757
+29,Julia da Luz,219.840.657-85,sophia99@example.com,21,2005-01-01,Recife,ativo,37 0591-0251
+30,Srta. Daniela Viana,296.850.743-56,das-nevesmaysa@example.org,47,1979-10-02,Belém,inativo,75 7916-7438
+31,Gabriel Siqueira,849.213.657-09,gaelda-luz@example.com,54,1971-12-11,,bloqueado,64 6173-3746
+32,Bruna Ribeiro,086.523.791-30,saluara@example.org,53,1973-07-25,Fortaleza,bloqueado,+55 74 4188-6369
+33,Cauê da Luz,089.361.254-51,caleb84@example.org,49,1977-04-24,São Luís,bloqueado,74 4521-9248
+34,Gabriela Marques,805.169.437-66,email_sem_arroba.com,21,2005-08-17,Teresina,ativo,+55 21 4199-2313
+35,Carlos Eduardo Aparecida,623.710.589-12,theodoro00@example.net,25,2000-11-25,,ativo,55 3895-6990
+36,Isaque Pimenta,328.764.109-31,ian23@example.org,53,1973-06-01,Fortaleza,ativo,+55 85 5789-5369
+37,Maria Vitória Nunes,901.324.765-25,yasmincassiano@example.com,42,1984-09-27,São Luís,ativo,47 3501-5468
+38,Rhavi Silva,602.395.471-52,yaragao@example.net,56,1970-03-02,Recife,inativo,+55 44 9852-9477
+39,Bento Vasconcelos,305.621.897-77,caldeirabianca@example.net,37,1989-09-27,Recife,bloqueado,48 1366-6718
+40,Srta. Maysa Pimenta,391.874.620-87,pazevedo@example.net,28,1998-05-30,Fortaleza,ativo,+55 99 6622-0430
+41,Sophie Andrade,894.235.670-29,portobenjamin@example.com,40,1986-05-10,Fortaleza,ATIVO,+55 19 5169-2008
+42,Raul Azevedo,290.643.785-92,maria-julialeao@example.net,60,1966-07-03,São Luís,bloqueado,+55 21 5641-1278
+43,Luiz Felipe Santos,048.965.273-56,cmartins@example.org,75,1951-09-02,Fortaleza,bloqueado,+55 87 9565-4525
+44,Alice Fogaça,908.562.743-56,isabella35@example.org,46,1980-08-05,,bloqueado,+55 92 3443-8175
+45,Ravi Lucca das Neves,132.054.786-90,luiz-miguel94@example.org,28,1998-03-20,Teresina,bloqueado,+55 14 3813-2361
+46,Carlos Eduardo Freitas,421.597.863-73,luizaporto@example.com,42,1983-10-31,,ativo,97 2480-6095
+47,Miguel Martins,014.893.752-79,snunes@example.com,65,1961-04-17,Belém,bloqueado,+55 27 2571-2152
+48,Melissa Novaes,054.673.281-07,isaacda-rocha@example.com,54,1972-08-15,São Luís,ativo,66 8521-5151
+49,Fernanda Azevedo,791.438.206-03,liviateixeira@example.net,22,2004-07-09,Recife,inativo,+55 64 2278-5251
+50,Gustavo Henrique Nascimento,795.130.248-14,heloisadas-neves@example.net,48,1978-08-08,Fortaleza,bloqueado,64 0736-0219
+51,Sra. Ana Clara Camargo,940.763.185-01,uborges@example.net,29,1997-08-29,,bloqueado,+55 24 0491-9677
+52,Brayan Albuquerque,068.239.147-69,garciatheo@example.com,34,1992-10-05,,bloqueado,+55 77 7027-5350
+53,Lavínia Vasconcelos,035.218.679-86,marcelo53@example.org,54,1972-07-07,Fortaleza,ativo,+55 14 6617-7263
+54,Dr. Luiz Fernando Nogueira,163.749.058-57,bda-rocha@example.net,44,1982-01-14,São Luís,ativo,+55 71 1870-7323
+55,Arthur Ribeiro,139.687.025-30,zfarias@example.org,47,1978-12-05,Fortaleza,inativo,41 2509-5757
+56,Isadora Carvalho,025.487.361-80,almeidavinicius@example.com,74,1952-05-20,Fortaleza,ativo,32 4257-9485
+57,Olivia Santos,406.598.327-47,sampaioisadora@example.net,74,1952-10-08,São Luís,bloqueado,27 6055-1251
+58,Eloá Albuquerque,350.678.192-86,fernandesemanuel@example.net,42,1984-04-25,,inativo,17 1785-4905
+59,Benjamim Ferreira,893.425.017-88,amanda06@example.org,22,2004-01-01,São Luís,bloqueado,+55 34 6652-4629
+60,Caio Araújo,851.274.360-35,monteirocaroline@example.net,67,1959-04-05,Recife,inativo,81 7895-5055
+61,Lívia Nascimento,506.829.734-83,luana66@example.net,42,1984-08-14,,inativo,+55 19 4559-3299
+62,Leandro Sá,927.153.084-50,samuelpinto@example.net,61,1965-07-21,São Luís,inativo,0500 305 2981
+63,Ana Lívia Abreu,397.452.081-32,hmarques@example.org,56,1969-11-14,São Luís,ativo,63 7904-8380
+64,José Miguel Melo,111.222.333-44,pedro-henriquepacheco@example.net,51,1975-06-07,,bloqueado,63 3569-9185
+65,Bryan Caldeira,517.486.293-28,joao-miguelcavalcanti@example.com,18,2008-04-06,Belém,inativo,66 4839-6086
+66,Luiz Felipe Montenegro,076.123.849-22,apollosouza@example.org,44,1982-03-09,,bloqueado,+55 86 6326-5532
+67,Olivia Cavalcante,869.047.235-56,davi-luccaviana@example.com,61,1964-12-18,Recife,bloqueado,+55 18 0860-3672
+68,Dr. Ian Rocha,374.085.912-14,saleszoe@example.net,28,1998-09-21,Recife,inativo,+55 97 6361-3441
+69,Murilo Costela,429.105.687-76,mateus29@example.org,42,1983-12-26,São Luís,ativo,+55 83 7285-2003
+70,Maria Vitória Alves,865.270.194-67,riosvitoria@example.net,28,1998-07-26,Belém,inativo,+55 89 0598-7159
+71,Melissa da Mota,064.135.792-34,osilveira@example.org,39,1987-04-30,Teresina,ativo,27 4189-0643
+72,Gael Rios,389.624.571-64,freitasjoao-vitor@example.net,40,1986-05-26,Teresina,ativo,93 1703-2364
+73,João Vitor Silveira,125.098.346-06,alicemelo@example.com,22,2004-03-18,,ativo,38 8908-8469
+74,Luiz Otávio Nascimento,738.465.210-35,msales@example.com,26,2000-04-24,,inativo,94 6339-2250
+75,Vitor Hugo Moreira,682.917.403-13,csampaio@example.com,73,1953-05-17,Belém,ativo,71 2164-2081
+76,Kaique Nascimento,593.684.712-82,correialuigi@example.net,50,1976-04-19,Recife,inativo,68 5970-5525
+77,Gabrielly Campos,610.782.935-03,das-nevesravy@example.org,55,1971-09-03,Belém,inativo,+55 34 1577-3269
+78,Levi Correia,817.904.263-40,correiaenzo-gabriel@example.net,57,1969-06-16,Belém,inativo,91 0543-5956
+79,Dra. Aylla Garcia,109.328.654-70,xazevedo@example.net,49,1977-01-25,Belém,ATIVO,86 1688-0049
+80,Nicolas Pacheco,163.287.094-04,plopes@example.com,31,1995-07-22,,bloqueado,+55 15 4680-3308
+81,Beatriz Casa Grande,893.165.072-86,emanuellycampos@example.com,24,2001-10-22,Teresina,bloqueado,+55 87 2520-9711
+82,João Felipe Almeida,876.340.125-80,noahmendes@example.com,25,2001-09-17,Belém,inativo,+55 35 2751-1607
+83,Dr. Diogo Novais,543.028.167-08,jda-mata@example.org,51,1975-08-05,,inativo,96 4211-7393
+84,Davi Luiz Cardoso,023.849.671-69,pietro53@example.com,38,1988-07-18,Teresina,inativo,+55 11 4117-2562
+85,Sabrina Rodrigues,534.280.769-74,davi-luccaalmeida@example.org,50,1976-05-05,Recife,ativo,73 5383-5651
+86,Rebeca Correia,643.985.017-20,ana-lizporto@example.net,28,1997-12-10,Recife,ativo,87 9385-6040
+87,Dr. Otávio Castro,563.908.127-95,woliveira@example.org,60,1966-02-11,,bloqueado,+55 97 3668-0329
+88,Maria Luísa Machado,876.031.592-02,email_sem_arroba.com,66,1960-10-04,Fortaleza,bloqueado,43 7177-8345
+89,Zoe Martins,109.328.567-21,isaque91@example.net,58,1968-01-02,São Luís,bloqueado,+55 14 8388-6129
+90,Danilo Costela,298.654.701-01,kaiqueda-paz@example.com,47,1979-09-08,Teresina,bloqueado,61 5110-3971
+91,Samuel Silva,924.517.836-64,diego28@example.net,18,2008-07-30,Fortaleza,bloqueado,65 7507-2544
+92,Dra. Sophie Oliveira,308.641.925-33,dsampaio@example.org,35,1991-02-02,Belém,bloqueado,12 8544-7697
+93,Ana Clara Freitas,352.468.709-10,zpacheco@example.com,56,1970-06-04,São Luís,ativo,62 3058-2759
+94,Emilly Santos,642.193.087-50,ana-clara51@example.net,60,1966-06-13,Fortaleza,ativo,+55 88 3772-6758
+95,Eloah Brito,359.012.768-68,ppeixoto@example.com,-1,2026-11-06,Belém,bloqueado,47 1238-1642
+96,Daniel Fogaça,058.294.761-85,jguerra@example.org,41,1985-03-19,Belém,inativo,89 5037-2614
+97,Srta. Eduarda Vasconcelos,682.495.037-83,lcassiano@example.net,23,2003-05-19,Recife,ativo,64 9956-4814
+98,Antony Camargo,194.057.386-66,arthur-gabrielfernandes@example.org,43,1983-10-08,Teresina,inativo,+55 35 1154-1443
+99,Srta. Ísis Carvalho,073.951.826-77,rodrigosilva@example.com,23,2003-09-23,Fortaleza,ativo,+55 32 9814-9924
+100,Caio Albuquerque,391.286.457-82,luiz-gustavo49@example.org,59,1967-01-03,Teresina,ativo,96 2231-2184
+101,Alice Porto,350.264.789-56,giovannacavalcante@example.net,50,1975-12-09,Belém,ativo,+55 89 0060-6385
+102,Dom Borges,214.536.970-80,vargaspedro-miguel@example.org,68,1958-05-19,Teresina,bloqueado,28 7650-1135
+103,Evelyn Souza,462.791.508-01,marcos-vinicius01@example.com,20,2006-08-28,Recife,ativo,+55 88 4619-4401
+104,Emanuelly Nascimento,258.043.716-90,sophia88@example.net,66,1959-12-20,Belém,ativo,14 2598-2471
+105,Emilly Silveira,264.903.587-00,da-pazliam@example.com,42,1984-06-07,São Luís,bloqueado,38 9290-5262
+106,Pedro Nogueira,264.937.815-82,samuel87@example.net,18,2008-05-28,Recife,bloqueado,27 1886-8182
+107,Henry Gabriel Rocha,684.310.297-22,tcastro@example.com,53,1972-11-01,São Luís,inativo,13 6403-3730
+108,Sabrina Souza,863.942.751-82,liz81@example.net,69,1957-09-17,Belém,bloqueado,+55 48 5541-4440
+109,Sra. Laura Freitas,719.528.630-40,rezendeallana@example.com,25,2001-08-11,Recife,ativo,61 2735-9826
+110,Dr. Breno da Cunha,819.640.723-87,oda-costa@example.net,56,1970-01-16,Belém,bloqueado,15 2944-6595
+111,Sra. Luara da Luz,267.981.543-28,giovannafreitas@example.org,73,1952-10-28,,ativo,32 0863-7597
+112,Kamilly da Mata,264.135.987-19,brendaduarte@example.org,69,1957-10-22,,inativo,+55 73 2889-6318
+113,Luiz Miguel Mendonça,014.539.682-70,erick08@example.org,46,1980-06-18,Recife,bloqueado,85 0968-3097
+114,Joaquim da Cunha,589.216.704-67,ecostela@example.org,46,1979-10-31,,inativo,+55 93 5129-4111
+115,Emanuelly Vasconcelos,183.209.475-88,cecilia42@example.com,20,2006-04-19,Recife,bloqueado,+55 28 1992-7464
+116,Júlia Rocha,716.380.594-20,antonella73@example.org,28,1998-05-12,Recife,ativo,65 5928-7202
+117,Davi Miguel Santos,570.143.968-20,vieirafernanda@example.net,19,2007-06-08,São Luís,ativo,+55 48 5165-7155
+118,Antonella Caldeira,814.372.069-13,mmendes@example.net,43,1983-01-01,Teresina,inativo,0800 262 3983
+119,Valentina da Paz,235.687.904-83,casa-granderafaela@example.com,47,1979-02-04,Teresina,bloqueado,+55 66 0189-5228
+120,Théo Carvalho,704.159.638-93,fda-paz@example.com,36,1990-02-22,Belém,ativo,+55 14 4803-2168
