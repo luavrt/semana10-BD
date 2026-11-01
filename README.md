@@ -49,6 +49,3 @@ O script 03 tenta executar **GX Core 1.x real**. Se o pacote não conseguir inst
 - `dados/`: CSVs brutos e a versão mascarada.
 - `reports/`: diagnósticos, validações e páginas HTML para evidências.
 - `governance/`: catálogo e linhagem em JSON.
-
-## Entrega
-Abra o **Caderno do Aluno**, responda às perguntas, adicione os prints em cada etapa e use **PDF** no final. O PDF deve conter as sete etapas, respostas e evidências.
